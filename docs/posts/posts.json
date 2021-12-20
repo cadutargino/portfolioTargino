@@ -15,5 +15,22 @@
     "preview": {},
     "last_modified": "2021-12-19T21:08:30-03:00",
     "input_file": {}
+  },
+  {
+    "path": "posts/2021-12-19-analise-da-base-rais/",
+    "title": "Analise da base RAIS",
+    "description": "Essa análise teve como obetivo estudar os salário na base RAIS. Esse projeto foi realizado na Semana Data Science na Prática da Curso-R.",
+    "author": [
+      {
+        "name": "Carlos Eduardo Targino da Silva",
+        "url": {}
+      }
+    ],
+    "date": "2021-12-19",
+    "categories": [],
+    "contents": "\r\nEsse é o primeiro projeto do Portfolio.\r\n\r\n\r\n\r\n",
+    "preview": {},
+    "last_modified": "2021-12-19T21:59:26-03:00",
+    "input_file": "analise-da-base-rais.knit.md"
   }
 ]
